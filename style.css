@@ -58,7 +58,11 @@ body {
   }
   
   .hero .carousel {
-    width: 40%; /* Larghezza flessibile in percentuale */
+    width: 45%; /* Larghezza flessibile in percentuale */
     margin-top: 20px;
   }
+}
+html, body {
+  overflow-x: hidden;
+  width: 100%;
 }
